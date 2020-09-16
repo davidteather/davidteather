@@ -4,3 +4,4 @@
 - 🌱 I’m currently learning machine learning.
 - 😊 Consider [sponsoring](https://github.com/sponsors/davidteather) me, thanks!
 - 📫 Email me at contact.davidteather@gmail.com for any inquiries.
+- 🐧 Visit my [LinkedIn](https://www.linkedin.com/in/davidteather/)
