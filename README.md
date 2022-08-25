@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 💡 I'm a freelancer, software engineer intern, student, content creator, and much more 😄
-- 🔭 I’m currently working on creating a resource for [everything web scraping](https://github.com/davidteather/web-scraping-with-reverse-engineering)
-- 🎥 I'm also making videos on my YouTube channels [David Teather](https://www.youtube.com/c/davidteather?sub_confirmation=1), and the [David Teather Codes channel](https://www.youtube.com/c/DavidTeatherCodes?sub_confirmation=1).
+- 💡 I'm a software engineer, data engineer, data scientist, student, content creator, and much more 😄
+- 🔭 I’m currently working on creating a resource for [everything web scraping](https://github.com/davidteather/everything-web-scraping)
+- 🎥 I'm also making videos on my YouTube channels [David Teather](https://www.youtube.com/c/davidteather?sub_confirmation=1), and the [David Teather Codes channel](https://www.youtube.com/c/DavidTeatherCodes?sub_confirmation=1)
+- ✍️ Check out my [The Response Times](https://theresponsetimes.com) which is my blog that covers mainly exploits
 - 😊 Consider [sponsoring](https://github.com/sponsors/davidteather) me or giving BAT with brave rewards :)
-- ✍️ Check out my [Medium](https://medium.com/@davidteather) profile where I write some articles about the programming projects I do.
 - 📫 Email me at contact.davidteather@gmail.com for any inquiries.
 - 🐧 Connect with me on [LinkedIn](https://www.linkedin.com/in/davidteather/)
