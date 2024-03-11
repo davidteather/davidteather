@@ -6,3 +6,11 @@
 - 😊 Consider [sponsoring](https://github.com/sponsors/davidteather) me
 - 📫 Email me at contact.davidteather@gmail.com for any inquiries.
 - 🐧 Connect with me on [LinkedIn](https://www.linkedin.com/in/davidteather/)
+
+## Highlights
+- 5.1K+ stars on GitHub
+- 1.6K+ learners on LinkedIn Learning
+- 1.7K+ subscribers on YouTube
+- 163.0K+ views on YouTube 
+
+<small>Last updated: March 11, 2024</small>
