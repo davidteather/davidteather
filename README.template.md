@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 💡 Software engineer, student, content creator, and much more 😄
 - 🔭 Currently crafting a comprehensive resource for [everything web scraping](https://github.com/davidteather/everything-web-scraping)
-- 🎥 Making videos on the [David Teather](https://www.youtube.com/c/davidteather?sub_confirmation=1), and [David Teather Codes channel](https://www.youtube.com/c/DavidTeatherCodes?sub_confirmation=1) YouTube channels
+- 🎥 Making tech content on the [David Teather](https://www.youtube.com/c/davidteather?sub_confirmation=1), and [David Teather Codes channel](https://www.youtube.com/c/DavidTeatherCodes?sub_confirmation=1) YouTube channels
 - ✍️ Blogging about privacy and security on [The Response Times](https://theresponsetimes.com)
 - 💖 Show your support by [sponsoring me](https://github.com/sponsors/davidteather)! Every contribution makes a difference.
 
