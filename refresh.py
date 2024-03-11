@@ -1,5 +1,6 @@
 import requests
 import datetime
+from jinja2 import Environment, FileSystemLoader
 
 WORKER_BASE_URL = "https://dteather-portfolio.dteather.workers.dev"
 
@@ -27,6 +28,10 @@ def main():
             github_stats = requests.get(WORKER_BASE_URL + "/github").json()
             star_count = to_human_readable(github_stats["starCount"])
 
+            # GitHub Sponsor Stats
+            github_sponsor_stats = requests.get(WORKER_BASE_URL + "/github/sponsors").json()
+            sponsor_count = to_human_readable(github_sponsor_stats["sponsorCount"])
+
             # LinkedIn Stats
             linkedin_stats = requests.get(WORKER_BASE_URL + "/linkedin").json()
             connection_count = to_human_readable(linkedin_stats["learnerCount"])
@@ -40,17 +45,26 @@ def main():
         except Exception as e:
             continue
 
+    if not success:
+        print("Failed to fetch stats")
+        return
+
     # Last updated, human readable
     last_updated_str = datetime.datetime.now().strftime("%B %d, %Y")
 
+    # Load the Jinja2 template
+    env = Environment(loader=FileSystemLoader('.'), autoescape=True)
+    template = env.get_template('README.template.md')
+
     # Read in the template, and replace the placeholders with the actual stats
-    with open("README.template.md", "r") as file:
-        readme = file.read()
-        readme = readme.replace("{{ GITHUB_STARS }}", star_count)
-        readme = readme.replace("{{ LINKEDIN_LEARNERS }}", connection_count)
-        readme = readme.replace("{{ YOUTUBE_SUBSCRIBERS }}", subscriber_count)
-        readme = readme.replace("{{ YOUTUBE_VIEWS }}", view_count)
-        readme = readme.replace("{{ LAST_UPDATED }}", last_updated_str)
+    readme = template.render(
+        GITHUB_STARS=star_count,
+        GITHUB_SPONSORS=sponsor_count,
+        LINKEDIN_LEARNERS=connection_count,
+        YOUTUBE_SUBSCRIBERS=subscriber_count,
+        YOUTUBE_VIEWS=view_count,
+        LAST_UPDATED=last_updated_str,
+    )
 
     # Write the final README
     with open("README.md", "w") as file:
