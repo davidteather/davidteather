@@ -34,7 +34,7 @@ def main():
             # YouTube Stats
             youtube_stats = requests.get(WORKER_BASE_URL + "/youtube").json()
             subscriber_count = to_human_readable(int(youtube_stats["subscriberCount"]))
-            view_count = to_human_readable(int(youtube_stats["viewCount"]), round_to=0)
+            view_count = to_human_readable(int(youtube_stats["viewCount"]), round_to=None)
 
             success = True
         except Exception as e:
