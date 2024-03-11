@@ -13,5 +13,3 @@
 #### ✍️ Contact Me
 - 📫 Feel free to shoot me an email at [contact.davidteather@gmail.com](mailto:contact.davidteather@gmail.com) for any inquiries
 - 🐧 Let's connect on [LinkedIn](https://www.linkedin.com/in/davidteather/).
-
-<small>Last updated: March 11, 2024</small>
