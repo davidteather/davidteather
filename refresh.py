@@ -86,13 +86,17 @@ def get_youtube_stats():
 def get_rss():
     return requests.get(WORKER_BASE_URL + "/rss").json()
 
-def sort_and_limit_rss(rss, limit=5):
+def sort_and_limit_rss(rss, limit=3):
     sorted_rss = {}
     for category, items in rss['catMap'].items():
         # Sort items by published date in descending order
         sorted_items = sorted(items, key=lambda x: x['published'], reverse=True)
         # Limit the number of items
         sorted_rss[category] = sorted_items[:limit]
+
+        # Make the date human-readable to just show the Day and Month and year
+        for item in sorted_rss[category]:
+             item['published'] = datetime.datetime.strptime(item['published'], "%Y-%m-%dT%H:%M:%S%z").strftime("%b %d, '%y")
     return sorted_rss
 
 def main():
