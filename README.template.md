@@ -15,16 +15,14 @@
 - 🐧 Let's connect on [LinkedIn](https://www.linkedin.com/in/davidteather/).
 
 #### 📰 Latest Content
-<div style="display: flex; flex-wrap: wrap;">
+<table><tr>
 {% for category, articles in RSS.items() %}
-<div style="flex: 1; min-width: calc({{ WIDTH_PERCENTAGE }}% - 20px); max-width: calc({{ WIDTH_PERCENTAGE }}% - 20px); margin: 10px;">
-<h3>{{ category }}</h3>
+<td valign="top" width="{{ 100 // RSS|length }}%">
+
+### {{ category }}
 {% for article in articles %}
-<div>
-<a href="{{ article.link }}" target="_blank">{{ article.title }}</a>
-<p>Published: {{ article.published }}</p>
-</div>
+- [{{ article.title }}]({{ article.link }}) - {{ article.published }}
 {% endfor %}
-</div>
+</td>
 {% endfor %}
-</div>
+</tr></table>

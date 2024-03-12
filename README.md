@@ -15,51 +15,32 @@
 - 🐧 Let's connect on [LinkedIn](https://www.linkedin.com/in/davidteather/).
 
 #### 📰 Latest Content
-<div style="display: flex; flex-wrap: wrap;">
+<table><tr>
 
-<div style="flex: 1; min-width: calc(50.0% - 20px); max-width: calc(50.0% - 20px); margin: 10px;">
-<h3>Blog Posts</h3>
+<td valign="top" width="50%">
 
-<div>
-<a href="https://theresponsetimes.com/link-social-exposing-sensitive-personal-information/" target="_blank">LINK.social Exposed Users’ Sensitive Information &amp; Mass Account Hijacking</a>
-<p>Published: 2022-07-14T15:00:00+00:00</p>
-</div>
+### Blog Posts
 
-<div>
-<a href="https://theresponsetimes.com/yikyak-is-exposing-user-locations/" target="_blank">YikYak Is Exposing Millions of User Locations</a>
-<p>Published: 2022-05-09T16:00:00+00:00</p>
-</div>
+- [LINK.social Exposed Users’ Sensitive Information &amp; Mass Account Hijacking](https://theresponsetimes.com/link-social-exposing-sensitive-personal-information/) - 2022-07-14T15:00:00+00:00
 
-</div>
+- [YikYak Is Exposing Millions of User Locations](https://theresponsetimes.com/yikyak-is-exposing-user-locations/) - 2022-05-09T16:00:00+00:00
 
-<div style="flex: 1; min-width: calc(50.0% - 20px); max-width: calc(50.0% - 20px); margin: 10px;">
-<h3>YouTube Videos</h3>
+</td>
 
-<div>
-<a href="https://www.youtube.com/watch?v=_Ptvvjm15EA" target="_blank">Digging For Digital Gold With Beautiful Soup</a>
-<p>Published: 2023-07-30T17:13:00+00:00</p>
-</div>
+<td valign="top" width="50%">
 
-<div>
-<a href="https://www.youtube.com/watch?v=X0FG2JaaWOY" target="_blank">Avoid Blocked Requests With Proxies</a>
-<p>Published: 2022-08-03T02:11:33+00:00</p>
-</div>
+### YouTube Videos
 
-<div>
-<a href="https://www.youtube.com/watch?v=8GZPQUjd7pk" target="_blank">Web Scraping A Better Way | Forging API Requests</a>
-<p>Published: 2022-06-26T22:52:20+00:00</p>
-</div>
+- [Digging For Digital Gold With Beautiful Soup](https://www.youtube.com/watch?v=_Ptvvjm15EA) - 2023-07-30T17:13:00+00:00
 
-<div>
-<a href="https://www.youtube.com/watch?v=CRa_JkZ0xg8" target="_blank">Python QR Codes in 15 Seconds</a>
-<p>Published: 2022-06-06T02:22:25+00:00</p>
-</div>
+- [Avoid Blocked Requests With Proxies](https://www.youtube.com/watch?v=X0FG2JaaWOY) - 2022-08-03T02:11:33+00:00
 
-<div>
-<a href="https://www.youtube.com/watch?v=307ijmA3_lc" target="_blank">TikTok Live Data in Python</a>
-<p>Published: 2022-03-13T14:00:02+00:00</p>
-</div>
+- [Web Scraping A Better Way | Forging API Requests](https://www.youtube.com/watch?v=8GZPQUjd7pk) - 2022-06-26T22:52:20+00:00
 
-</div>
+- [Python QR Codes in 15 Seconds](https://www.youtube.com/watch?v=CRa_JkZ0xg8) - 2022-06-06T02:22:25+00:00
 
-</div>
+- [TikTok Live Data in Python](https://www.youtube.com/watch?v=307ijmA3_lc) - 2022-03-13T14:00:02+00:00
+
+</td>
+
+</tr></table>
