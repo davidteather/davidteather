@@ -13,3 +13,30 @@
 #### ✍️ Contact Me
 - 📫 Feel free to shoot me an email at [contact.davidteather@gmail.com](mailto:contact.davidteather@gmail.com) for any inquiries
 - 🐧 Let's connect on [LinkedIn](https://www.linkedin.com/in/davidteather/).
+
+#### 📰 Latest Content
+<table><tr>
+
+<td valign="top" width="50%">
+
+### Blog Posts
+
+- [LINK.social Exposed Users’ Sensitive Information &amp; Mass Account Hijacking](https://theresponsetimes.com/link-social-exposing-sensitive-personal-information/) - Jul 14, &#39;22
+
+- [YikYak Is Exposing Millions of User Locations](https://theresponsetimes.com/yikyak-is-exposing-user-locations/) - May 09, &#39;22
+
+</td>
+
+<td valign="top" width="50%">
+
+### YouTube Videos
+
+- [Digging For Digital Gold With Beautiful Soup](https://www.youtube.com/watch?v=_Ptvvjm15EA) - Jul 30, &#39;23
+
+- [Avoid Blocked Requests With Proxies](https://www.youtube.com/watch?v=X0FG2JaaWOY) - Aug 03, &#39;22
+
+- [Web Scraping A Better Way | Forging API Requests](https://www.youtube.com/watch?v=8GZPQUjd7pk) - Jun 26, &#39;22
+
+</td>
+
+</tr></table>

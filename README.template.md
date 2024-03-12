@@ -13,3 +13,16 @@
 #### ✍️ Contact Me
 - 📫 Feel free to shoot me an email at [contact.davidteather@gmail.com](mailto:contact.davidteather@gmail.com) for any inquiries
 - 🐧 Let's connect on [LinkedIn](https://www.linkedin.com/in/davidteather/).
+
+#### 📰 Latest Content
+<table><tr>
+{% for category, articles in RSS.items() %}
+<td valign="top" width="{{ 100 // RSS|length }}%">
+
+### Recent {{ category }}
+{% for article in articles %}
+- [{{ article.title }}]({{ article.link }}) - {{ article.published }}
+{% endfor %}
+</td>
+{% endfor %}
+</tr></table>
