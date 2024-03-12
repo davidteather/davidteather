@@ -19,7 +19,7 @@
 {% for category, articles in RSS.items() %}
 <td valign="top" width="{{ 100 // RSS|length }}%">
 
-### {{ category }}
+### Recent {{ category }}
 {% for article in articles %}
 - [{{ article.title }}]({{ article.link }}) - {{ article.published }}
 {% endfor %}
