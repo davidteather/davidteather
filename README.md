@@ -19,7 +19,7 @@
 
 <td valign="top" width="50%">
 
-### Blog Posts
+### Recent Blog Posts
 
 - [LINK.social Exposed Users’ Sensitive Information &amp; Mass Account Hijacking](https://theresponsetimes.com/link-social-exposing-sensitive-personal-information/) - Jul 14, &#39;22
 
@@ -29,7 +29,7 @@
 
 <td valign="top" width="50%">
 
-### YouTube Videos
+### Recent YouTube Videos
 
 - [Digging For Digital Gold With Beautiful Soup](https://www.youtube.com/watch?v=_Ptvvjm15EA) - Jul 30, &#39;23
 
