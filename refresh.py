@@ -82,6 +82,18 @@ def get_linkedin_stats():
 def get_youtube_stats():
     return requests.get(WORKER_BASE_URL + "/youtube").json()
 
+@wrap_function_with_cache_and_retry
+def get_rss():
+    return requests.get(WORKER_BASE_URL + "/rss").json()
+
+def sort_and_limit_rss(rss, limit=5):
+    sorted_rss = {}
+    for category, items in rss['catMap'].items():
+        # Sort items by published date in descending order
+        sorted_items = sorted(items, key=lambda x: x['published'], reverse=True)
+        # Limit the number of items
+        sorted_rss[category] = sorted_items[:limit]
+    return sorted_rss
 
 def main():
     github_stats = get_github_stats()
@@ -96,6 +108,16 @@ def main():
     youtube_stats = get_youtube_stats()
     subscriber_count = to_human_readable(youtube_stats["subscriberCount"])
     view_count = to_human_readable(youtube_stats["viewCount"], round_to=None)
+
+    rss = get_rss()
+    rss = sort_and_limit_rss(rss)
+
+    # Calculate width
+    num_categories = len(rss)
+    if num_categories > 0:
+        width_percentage = 100 / num_categories
+    else:
+        width_percentage = 100
 
     # Last updated, human readable
     last_updated_str = datetime.datetime.now().strftime("%B %d, %Y")
@@ -112,6 +134,8 @@ def main():
         YOUTUBE_SUBSCRIBERS=subscriber_count,
         YOUTUBE_VIEWS=view_count,
         LAST_UPDATED=last_updated_str,
+        RSS=rss,
+        WIDTH_PERCENTAGE=width_percentage,
     )
 
     # Write the final README

@@ -1,15 +1,149 @@
 {
     "get_github_stats": {
-        "starCount": 5127
+        "starCount": 5129
     },
     "get_github_sponsor_stats": {
         "sponsorCount": 24
     },
     "get_linkedin_stats": {
-        "learnerCount": 1596
+        "learnerCount": 1598
     },
     "get_youtube_stats": {
-        "viewCount": "162998",
+        "viewCount": "163118",
         "subscriberCount": "1720"
+    },
+    "get_rss": {
+        "catMap": {
+            "Blog Posts": [
+                {
+                    "title": "LINK.social Exposed Users\u2019 Sensitive Information & Mass Account Hijacking",
+                    "link": "https://theresponsetimes.com/link-social-exposing-sensitive-personal-information/",
+                    "published": "2022-07-14T15:00:00+00:00",
+                    "humanReadableSiteName": "The Response Times"
+                },
+                {
+                    "title": "YikYak Is Exposing Millions of User Locations",
+                    "link": "https://theresponsetimes.com/yikyak-is-exposing-user-locations/",
+                    "published": "2022-05-09T16:00:00+00:00",
+                    "humanReadableSiteName": "The Response Times"
+                }
+            ],
+            "YouTube Videos": [
+                {
+                    "title": "Digging For Digital Gold With Beautiful Soup",
+                    "link": "https://www.youtube.com/watch?v=_Ptvvjm15EA",
+                    "published": "2023-07-30T17:13:00+00:00",
+                    "humanReadableSiteName": "YouTube - David Teather Codes"
+                },
+                {
+                    "title": "Avoid Blocked Requests With Proxies",
+                    "link": "https://www.youtube.com/watch?v=X0FG2JaaWOY",
+                    "published": "2022-08-03T02:11:33+00:00",
+                    "humanReadableSiteName": "YouTube - David Teather Codes"
+                },
+                {
+                    "title": "Web Scraping A Better Way | Forging API Requests",
+                    "link": "https://www.youtube.com/watch?v=8GZPQUjd7pk",
+                    "published": "2022-06-26T22:52:20+00:00",
+                    "humanReadableSiteName": "YouTube - David Teather Codes"
+                },
+                {
+                    "title": "Python QR Codes in 15 Seconds",
+                    "link": "https://www.youtube.com/watch?v=CRa_JkZ0xg8",
+                    "published": "2022-06-06T02:22:25+00:00",
+                    "humanReadableSiteName": "YouTube - David Teather Codes"
+                },
+                {
+                    "title": "TikTok Live Data in Python",
+                    "link": "https://www.youtube.com/watch?v=307ijmA3_lc",
+                    "published": "2022-03-13T14:00:02+00:00",
+                    "humanReadableSiteName": "YouTube - David Teather Codes"
+                },
+                {
+                    "title": "Scrape TikTok In Python [2022]",
+                    "link": "https://www.youtube.com/watch?v=-uCt1x8kINQ",
+                    "published": "2022-02-14T02:38:18+00:00",
+                    "humanReadableSiteName": "YouTube - David Teather Codes"
+                },
+                {
+                    "title": "Scrape TikTok In Python",
+                    "link": "https://www.youtube.com/watch?v=zwLmLfVI-VQ",
+                    "published": "2021-01-11T00:00:19+00:00",
+                    "humanReadableSiteName": "YouTube - David Teather Codes"
+                },
+                {
+                    "title": "Do NOT Report Me To The DMV",
+                    "link": "https://www.youtube.com/watch?v=GG-gtY4bkmY",
+                    "published": "2021-07-24T15:30:04+00:00",
+                    "humanReadableSiteName": "YouTube - David Teather"
+                },
+                {
+                    "title": "CSGO Without Hands #Shorts",
+                    "link": "https://www.youtube.com/watch?v=OuyWKaVafeo",
+                    "published": "2021-02-20T17:00:08+00:00",
+                    "humanReadableSiteName": "YouTube - David Teather"
+                },
+                {
+                    "title": "I Made A Tinder Bot",
+                    "link": "https://www.youtube.com/watch?v=OnWH1GnzyNE",
+                    "published": "2021-01-01T17:00:07+00:00",
+                    "humanReadableSiteName": "YouTube - David Teather"
+                },
+                {
+                    "title": "Copypasta Generator",
+                    "link": "https://www.youtube.com/watch?v=rvufIaEFKoQ",
+                    "published": "2020-08-24T21:30:01+00:00",
+                    "humanReadableSiteName": "YouTube - David Teather"
+                },
+                {
+                    "title": "A Conspiracy Robot",
+                    "link": "https://www.youtube.com/watch?v=lJIxWh3BR4g",
+                    "published": "2020-08-21T20:00:08+00:00",
+                    "humanReadableSiteName": "YouTube - David Teather"
+                },
+                {
+                    "title": "The WORST Investment AI",
+                    "link": "https://www.youtube.com/watch?v=OEbb5G4Awwc",
+                    "published": "2020-08-18T19:30:00+00:00",
+                    "humanReadableSiteName": "YouTube - David Teather"
+                },
+                {
+                    "title": "CSGO Without Hands",
+                    "link": "https://www.youtube.com/watch?v=5rL8Y2WW6iw",
+                    "published": "2020-08-06T19:30:00+00:00",
+                    "humanReadableSiteName": "YouTube - David Teather"
+                },
+                {
+                    "title": "The WORST Tetris AI",
+                    "link": "https://www.youtube.com/watch?v=Ze427G3bYK0",
+                    "published": "2020-07-19T01:00:03+00:00",
+                    "humanReadableSiteName": "YouTube - David Teather"
+                },
+                {
+                    "title": "The WORST Tic-Tac-Toe AI",
+                    "link": "https://www.youtube.com/watch?v=EIc67lIEexw",
+                    "published": "2020-07-06T21:30:00+00:00",
+                    "humanReadableSiteName": "YouTube - David Teather"
+                },
+                {
+                    "title": "Screaming Shoes",
+                    "link": "https://www.youtube.com/watch?v=0X3Vl1EcXfs",
+                    "published": "2020-03-25T15:00:01+00:00",
+                    "humanReadableSiteName": "YouTube - David Teather"
+                },
+                {
+                    "title": "An Unreadable Clock",
+                    "link": "https://www.youtube.com/watch?v=niaVdwni9dQ",
+                    "published": "2020-03-22T19:30:00+00:00",
+                    "humanReadableSiteName": "YouTube - David Teather"
+                },
+                {
+                    "title": "A Robot That Interrupts You",
+                    "link": "https://www.youtube.com/watch?v=BX0RaPXItNk",
+                    "published": "2020-03-19T15:00:07+00:00",
+                    "humanReadableSiteName": "YouTube - David Teather"
+                }
+            ]
+        }
     }
 }
