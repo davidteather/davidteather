@@ -21,6 +21,8 @@
 
 ### Recent Blog Posts
 
+- [Organizing MadHacks Fall 2023 Reflections](https://dteather.com/blogs/madhacks-fall-23/) - Nov 11, &#39;23
+
 - [LINK.social Exposed Users’ Sensitive Information &amp; Mass Account Hijacking](https://theresponsetimes.com/link-social-exposing-sensitive-personal-information/) - Jul 14, &#39;22
 
 - [YikYak Is Exposing Millions of User Locations](https://theresponsetimes.com/yikyak-is-exposing-user-locations/) - May 09, &#39;22
