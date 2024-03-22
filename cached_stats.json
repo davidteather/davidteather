@@ -1,6 +1,6 @@
 {
     "get_github_stats": {
-        "starCount": 5176
+        "starCount": 5177
     },
     "get_github_sponsor_stats": {
         "sponsorCount": 24
@@ -31,6 +31,12 @@
                     "title": "Organizing MadHacks Fall 2023 Reflections",
                     "link": "https://dteather.com/blogs/madhacks-fall-23/",
                     "published": "2023-11-11T15:00:00+00:00",
+                    "humanReadableSiteName": "David Teather's Blog"
+                },
+                {
+                    "title": "Battlecode 2024 Finalist",
+                    "link": "https://dteather.com/blogs/battlecode24/",
+                    "published": "2024-01-28T15:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 }
             ],
