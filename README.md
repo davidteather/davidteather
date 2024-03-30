@@ -21,11 +21,11 @@
 
 ### Recent Blog Posts
 
+- [GitHub Field Day NYC 2024 Organizer](https://dteather.com/blogs/github-fieldday-nyc-2024/) - Mar 15, &#39;24
+
 - [Battlecode 2024 Finalist](https://dteather.com/blogs/battlecode24/) - Jan 28, &#39;24
 
 - [Organizing MadHacks Fall 2023 Reflections](https://dteather.com/blogs/madhacks-fall-23/) - Nov 11, &#39;23
-
-- [LINK.social Exposed Users’ Sensitive Information &amp; Mass Account Hijacking](https://theresponsetimes.com/link-social-exposing-sensitive-personal-information/) - Jul 14, &#39;22
 
 </td>
 
