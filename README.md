@@ -7,7 +7,7 @@
 
 #### 🚀 Quick Stats
 - 🌟 **5.4K+** stars on GitHub
-- 🎓 Guided **1.9K+** learners on my [LinkedIn Learning courses](https://www.linkedin.com/learning/instructors/david-teather)
+- 🎓 Guided **2.0K+** learners on my [LinkedIn Learning courses](https://www.linkedin.com/learning/instructors/david-teather)
 - 👁️ Over **1.8K+** subscribers, and **170K+** views on YouTube
 
 #### ✍️ Contact Me
