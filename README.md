@@ -8,7 +8,7 @@
 #### 🚀 Quick Stats
 - 🌟 **5.6K+** stars on GitHub
 - 🎓 Guided **2.3K+** learners on my [LinkedIn Learning courses](https://www.linkedin.com/learning/instructors/david-teather)
-- 👁️ Over **1.8K+** subscribers, and **176K+** views on YouTube
+- 👁️ Over **1.9K+** subscribers, and **176K+** views on YouTube
 
 #### ✍️ Contact Me
 - 📫 Feel free to shoot me an email at [contact.davidteather@gmail.com](mailto:contact.davidteather@gmail.com) for any inquiries
@@ -21,11 +21,11 @@
 
 ### Recent Blog Posts
 
+- [Adding an Astro Search Bar](https://dteather.com/blogs/astro-search-bar/) - Jul 26, &#39;24
+
+- [Astro Optimized Images With Markdown](https://dteather.com/blogs/astro-optimized-images/) - Jul 26, &#39;24
+
 - [IMC Prosperity 2](https://dteather.com/blogs/imc-prosperity-2/) - May 03, &#39;24
-
-- [My UW Madison Course Tier List](https://dteather.com/blogs/madison-class-rankings/) - Apr 25, &#39;24
-
-- [GitHub Field Day NYC 2024 Organizer](https://dteather.com/blogs/github-fieldday-nyc-2024/) - Mar 15, &#39;24
 
 </td>
 

@@ -1,16 +1,16 @@
 {
     "get_github_stats": {
-        "starCount": 5633
+        "starCount": 5634
     },
     "get_github_sponsor_stats": {
         "sponsorCount": 25
     },
     "get_linkedin_stats": {
-        "learnerCount": 2334
+        "learnerCount": 2342
     },
     "get_youtube_stats": {
         "viewCount": "176273",
-        "subscriberCount": "1840"
+        "subscriberCount": "1850"
     },
     "get_rss": {
         "catMap": {
@@ -55,6 +55,18 @@
                     "title": "IMC Prosperity 2",
                     "link": "https://dteather.com/blogs/imc-prosperity-2/",
                     "published": "2024-05-03T15:00:00+00:00",
+                    "humanReadableSiteName": "David Teather's Blog"
+                },
+                {
+                    "title": "Adding an Astro Search Bar",
+                    "link": "https://dteather.com/blogs/astro-search-bar/",
+                    "published": "2024-07-26T17:00:00+00:00",
+                    "humanReadableSiteName": "David Teather's Blog"
+                },
+                {
+                    "title": "Astro Optimized Images With Markdown",
+                    "link": "https://dteather.com/blogs/astro-optimized-images/",
+                    "published": "2024-07-26T15:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 }
             ],
