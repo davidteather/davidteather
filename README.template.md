@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 💡 Software engineer, content creator, and much more 😄
 - ✍️ [Blogging](https://dteather.com/blog/) about things I'm doing, learning, tech tutorials, and more
-- 🔭 Currently creating an [open source evenet management platform](https://github.com/ApplicantAtlas/ApplicantAtlas) focused on hackathons
+- 🔭 Currently creating an [open source event management platform](https://github.com/ApplicantAtlas/ApplicantAtlas) focused on hackathons
 - 🎥 Making tech content on the [David Teather Codes](https://www.youtube.com/c/DavidTeatherCodes) YouTube channel
 - 💖 Join the **{{ GITHUB_SPONSORS }}** people who have [sponsored me](https://github.com/sponsors/davidteather), which enables me to create more free content and tools!
 
