@@ -9,7 +9,7 @@
         "learnerCount": 2513
     },
     "get_youtube_stats": {
-        "viewCount": "178553",
+        "viewCount": "178627",
         "subscriberCount": "1870"
     },
     "get_rss": {
@@ -55,6 +55,12 @@
                     "title": "IMC Prosperity 2",
                     "link": "https://dteather.com/blogs/imc-prosperity-2/",
                     "published": "2024-05-03T15:00:00+00:00",
+                    "humanReadableSiteName": "David Teather's Blog"
+                },
+                {
+                    "title": "Is Web Scraping Ethical?",
+                    "link": "https://dteather.com/blogs/is-web-scraping-ethical/",
+                    "published": "2024-08-23T03:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
