@@ -6,7 +6,7 @@
 - 💖 Join the **25** people who have [sponsored me](https://github.com/sponsors/davidteather), which enables me to create more free content and tools!
 
 #### 🚀 Quick Stats
-- 🌟 **5.8K+** stars on GitHub
+- 🌟 **5.9K+** stars on GitHub
 - 🎓 Guided **2.8K+** learners on my [LinkedIn Learning courses](https://www.linkedin.com/learning/instructors/david-teather)
 - 👁️ Over **1.9K+** subscribers, and **181K+** views on YouTube
 
