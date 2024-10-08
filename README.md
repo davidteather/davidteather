@@ -21,11 +21,11 @@
 
 ### Recent Blog Posts
 
+- [Adding UML Diagrams to Rehype in Astro](https://dteather.com/blogs/astro-uml-diagrams/) - Oct 07, &#39;24
+
 - [Is Web Scraping Ethical?](https://dteather.com/blogs/is-web-scraping-ethical/) - Aug 23, &#39;24
 
 - [Adding an Astro Search Bar](https://dteather.com/blogs/astro-search-bar/) - Jul 26, &#39;24
-
-- [Astro Optimized Images With Markdown](https://dteather.com/blogs/astro-optimized-images/) - Jul 26, &#39;24
 
 </td>
 

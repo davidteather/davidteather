@@ -1,12 +1,12 @@
 {
     "get_github_stats": {
-        "starCount": 5874
+        "starCount": 5873
     },
     "get_github_sponsor_stats": {
         "sponsorCount": 25
     },
     "get_linkedin_stats": {
-        "learnerCount": 2860
+        "learnerCount": 2865
     },
     "get_youtube_stats": {
         "viewCount": "182059",
@@ -61,6 +61,12 @@
                     "title": "Is Web Scraping Ethical?",
                     "link": "https://dteather.com/blogs/is-web-scraping-ethical/",
                     "published": "2024-08-23T03:00:00+00:00",
+                    "humanReadableSiteName": "David Teather's Blog"
+                },
+                {
+                    "title": "Adding UML Diagrams to Rehype in Astro",
+                    "link": "https://dteather.com/blogs/astro-uml-diagrams/",
+                    "published": "2024-10-07T03:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
