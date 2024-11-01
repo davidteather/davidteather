@@ -1,15 +1,15 @@
 {
     "get_github_stats": {
-        "starCount": 5939
+        "starCount": 5940
     },
     "get_github_sponsor_stats": {
         "sponsorCount": 25
     },
     "get_linkedin_stats": {
-        "learnerCount": 2981
+        "learnerCount": 2986
     },
     "get_youtube_stats": {
-        "viewCount": "183779",
+        "viewCount": "183841",
         "subscriberCount": "1920"
     },
     "get_rss": {
@@ -67,6 +67,12 @@
                     "title": "Adding UML Diagrams to Rehype in Astro",
                     "link": "https://dteather.com/blogs/astro-uml-diagrams/",
                     "published": "2024-10-07T03:00:00+00:00",
+                    "humanReadableSiteName": "David Teather's Blog"
+                },
+                {
+                    "title": "Adding Interactive Charts to Astro",
+                    "link": "https://dteather.com/blogs/astro-interactive-charts/",
+                    "published": "2024-10-30T03:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
