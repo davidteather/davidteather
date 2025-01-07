@@ -3,11 +3,11 @@
 - ✍️ [Blogging](https://dteather.com/blog/) about things I'm doing, learning, tech tutorials, and more
 - 🔭 Currently creating an [open source event management platform](https://github.com/ApplicantAtlas/ApplicantAtlas) focused on hackathons
 - 🎥 Making tech content on the [David Teather Codes](https://www.youtube.com/c/DavidTeatherCodes) YouTube channel
-- 💖 Join the **25** people who have [sponsored me](https://github.com/sponsors/davidteather), which enables me to create more free content and tools!
+- 💖 Join the **26** people who have [sponsored me](https://github.com/sponsors/davidteather), which enables me to create more free content and tools!
 
 #### 🚀 Quick Stats
 - 🌟 **6.1K+** stars on GitHub
-- 🎓 Guided **3.3K+** learners on my [LinkedIn Learning courses](https://www.linkedin.com/learning/instructors/david-teather)
+- 🎓 Guided **6.5K+** learners on my [LinkedIn Learning courses](https://www.linkedin.com/learning/instructors/david-teather)
 - 👁️ Over **2.0K+** subscribers, and **188K+** views on YouTube
 
 #### ✍️ Contact Me
