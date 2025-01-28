@@ -1,15 +1,15 @@
 {
     "get_github_stats": {
-        "starCount": 6221
+        "starCount": 6222
     },
     "get_github_sponsor_stats": {
         "sponsorCount": 26
     },
     "get_linkedin_stats": {
-        "learnerCount": 3332
+        "learnerCount": 3334
     },
     "get_youtube_stats": {
-        "viewCount": "189609",
+        "viewCount": "189668",
         "subscriberCount": "1980"
     },
     "get_rss": {
@@ -26,6 +26,18 @@
                     "link": "https://theresponsetimes.com/yikyak-is-exposing-user-locations/",
                     "published": "2022-05-09T16:00:00+00:00",
                     "humanReadableSiteName": "The Response Times"
+                },
+                {
+                    "title": "YikYak Is Exposing Millions of User Locations",
+                    "link": "https://dteather.com/blogs/yikyak-is-exposing-user-locations/",
+                    "published": "2022-05-09T15:00:00+00:00",
+                    "humanReadableSiteName": "David Teather's Blog"
+                },
+                {
+                    "title": "LINK.social Exposed Users' Sensitive Information & Mass Account Hijacking",
+                    "link": "https://dteather.com/blogs/link-social-exposing-sensitive-personal-information/",
+                    "published": "2022-07-14T15:00:00+00:00",
+                    "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
                     "title": "Organizing MadHacks Fall 2023 Reflections",
