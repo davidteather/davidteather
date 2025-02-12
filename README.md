@@ -21,11 +21,11 @@
 
 ### Recent Blog Posts
 
+- [Adding Giscus Discussions to Astro](https://dteather.com/blogs/adding-giscus-discussions-to-astro/) - Jan 11, &#39;25
+
 - [Adding Interactive Charts to Astro](https://dteather.com/blogs/astro-interactive-charts/) - Oct 30, &#39;24
 
 - [Adding UML Diagrams to Rehype in Astro](https://dteather.com/blogs/astro-uml-diagrams/) - Oct 07, &#39;24
-
-- [Is Web Scraping Ethical?](https://dteather.com/blogs/is-web-scraping-ethical/) - Aug 23, &#39;24
 
 </td>
 

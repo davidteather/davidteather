@@ -1,15 +1,15 @@
 {
     "get_github_stats": {
-        "starCount": 6266
+        "starCount": 6269
     },
     "get_github_sponsor_stats": {
         "sponsorCount": 26
     },
     "get_linkedin_stats": {
-        "learnerCount": 3381
+        "learnerCount": 3385
     },
     "get_youtube_stats": {
-        "viewCount": "190510",
+        "viewCount": "190581",
         "subscriberCount": "1980"
     },
     "get_rss": {
@@ -97,6 +97,12 @@
                     "title": "Astro Optimized Images With Markdown",
                     "link": "https://dteather.com/blogs/astro-optimized-images/",
                     "published": "2024-07-26T15:00:00+00:00",
+                    "humanReadableSiteName": "David Teather's Blog"
+                },
+                {
+                    "title": "Adding Giscus Discussions to Astro",
+                    "link": "https://dteather.com/blogs/adding-giscus-discussions-to-astro/",
+                    "published": "2025-01-11T03:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 }
             ],
