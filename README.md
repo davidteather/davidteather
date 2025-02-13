@@ -21,7 +21,7 @@
 
 ### Recent Blog Posts
 
-- [Adding Giscus Discussions to Astro](https://dteather.com/blogs/adding-giscus-discussions-to-astro/) - Jan 11, &#39;25
+- [Adding Giscus Discussions to Astro](https://dteather.com/blogs/adding-giscus-discussions-to-astro/) - Feb 11, &#39;25
 
 - [Adding Interactive Charts to Astro](https://dteather.com/blogs/astro-interactive-charts/) - Oct 30, &#39;24
 

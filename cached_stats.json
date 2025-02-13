@@ -1,16 +1,16 @@
 {
     "get_github_stats": {
-        "starCount": 6269
+        "starCount": 6271
     },
     "get_github_sponsor_stats": {
         "sponsorCount": 26
     },
     "get_linkedin_stats": {
-        "learnerCount": 3385
+        "learnerCount": 3392
     },
     "get_youtube_stats": {
-        "viewCount": "190581",
-        "subscriberCount": "1980"
+        "viewCount": "190666",
+        "subscriberCount": "1990"
     },
     "get_rss": {
         "catMap": {
@@ -102,7 +102,7 @@
                 {
                     "title": "Adding Giscus Discussions to Astro",
                     "link": "https://dteather.com/blogs/adding-giscus-discussions-to-astro/",
-                    "published": "2025-01-11T03:00:00+00:00",
+                    "published": "2025-02-11T03:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 }
             ],
