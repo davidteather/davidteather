@@ -10,7 +10,8 @@ def to_human_readable(num, round_to=1):
     """
     Converts a large number into a human-readable format
     """
-    num = int(num)
+    num = float(num)
+    num = int(round(num))
     if num < 1_000:
         return str(num)
     elif num < 1_000_000:
