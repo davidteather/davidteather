@@ -1,15 +1,15 @@
 {
     "get_github_stats": {
-        "starCount": 6714
+        "starCount": 6720
     },
     "get_github_sponsor_stats": {
         "sponsorCount": 26
     },
     "get_linkedin_stats": {
-        "learnerCount": 3773
+        "learnerCount": 3774
     },
     "get_youtube_stats": {
-        "viewCount": "196451",
+        "viewCount": "196490",
         "subscriberCount": "2050"
     },
     "get_rss": {
@@ -127,7 +127,7 @@
                 },
                 {
                     "title": "Python QR Codes in 15 Seconds",
-                    "link": "https://www.youtube.com/watch?v=CRa_JkZ0xg8",
+                    "link": "https://www.youtube.com/shorts/CRa_JkZ0xg8",
                     "published": "2022-06-06T02:22:25+00:00",
                     "humanReadableSiteName": "YouTube - David Teather Codes"
                 },
@@ -157,7 +157,7 @@
                 },
                 {
                     "title": "CSGO Without Hands #Shorts",
-                    "link": "https://www.youtube.com/watch?v=OuyWKaVafeo",
+                    "link": "https://www.youtube.com/shorts/OuyWKaVafeo",
                     "published": "2021-02-20T17:00:08+00:00",
                     "humanReadableSiteName": "YouTube - David Teather"
                 },
