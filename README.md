@@ -21,11 +21,11 @@
 
 ### Recent Blog Posts
 
+- [Why 99% of GitHub Projects Die (And the 3 Rules That Got Me 2M+ Downloads)](https://dteather.com/blogs/why-99-percent-of-github-projects-fail/) - Jul 14, &#39;25
+
 - [Adding Giscus Discussions to Astro](https://dteather.com/blogs/adding-giscus-discussions-to-astro/) - Feb 11, &#39;25
 
 - [Adding Interactive Charts to Astro](https://dteather.com/blogs/astro-interactive-charts/) - Oct 30, &#39;24
-
-- [Adding UML Diagrams to Rehype in Astro](https://dteather.com/blogs/astro-uml-diagrams/) - Oct 07, &#39;24
 
 </td>
 
@@ -33,11 +33,11 @@
 
 ### Recent YouTube Videos
 
+- [Why 99% of GitHub Projects Fail (And the 3 Rules That Got Me 2M+ Downloads)](https://www.youtube.com/watch?v=sSZz1qsqeig) - Jul 14, &#39;25
+
 - [Digging For Digital Gold With Beautiful Soup](https://www.youtube.com/watch?v=_Ptvvjm15EA) - Jul 30, &#39;23
 
 - [Avoid Blocked Requests With Proxies](https://www.youtube.com/watch?v=X0FG2JaaWOY) - Aug 03, &#39;22
-
-- [Web Scraping A Better Way | Forging API Requests](https://www.youtube.com/watch?v=8GZPQUjd7pk) - Jun 26, &#39;22
 
 </td>
 
