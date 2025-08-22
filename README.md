@@ -21,11 +21,11 @@
 
 ### Recent Blog Posts
 
+- [Reflections A Year Into My Career](https://dteather.com/blogs/reflections-a-year-into-my-career/) - Aug 21, &#39;25
+
 - [Why 99% of GitHub Projects Die (And the 3 Rules That Got Me 2M+ Downloads)](https://dteather.com/blogs/why-99-percent-of-github-projects-fail/) - Jul 14, &#39;25
 
 - [Adding Giscus Discussions to Astro](https://dteather.com/blogs/adding-giscus-discussions-to-astro/) - Feb 11, &#39;25
-
-- [Adding Interactive Charts to Astro](https://dteather.com/blogs/astro-interactive-charts/) - Oct 30, &#39;24
 
 </td>
 
