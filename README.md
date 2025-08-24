@@ -21,11 +21,11 @@
 
 ### Recent Blog Posts
 
+- [How to Add Live Stats To Your Site](https://dteather.com/blogs/how-to-add-live-stats-to-your-site/) - Aug 22, &#39;25
+
 - [Reflections A Year Into My Career](https://dteather.com/blogs/reflections-a-year-into-my-career/) - Aug 21, &#39;25
 
 - [Why 99% of GitHub Projects Die (And the 3 Rules That Got Me 2M+ Downloads)](https://dteather.com/blogs/why-99-percent-of-github-projects-fail/) - Jul 14, &#39;25
-
-- [Adding Giscus Discussions to Astro](https://dteather.com/blogs/adding-giscus-discussions-to-astro/) - Feb 11, &#39;25
 
 </td>
 
