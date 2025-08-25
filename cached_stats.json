@@ -1,6 +1,6 @@
 {
     "get_github_stats": {
-        "starCount": 6969
+        "starCount": 6972
     },
     "get_github_sponsor_stats": {
         "sponsorCount": 26
@@ -9,7 +9,7 @@
         "learnerCount": 4000
     },
     "get_youtube_stats": {
-        "viewCount": "198833",
+        "viewCount": "198853",
         "subscriberCount": "2070"
     },
     "get_rss": {
@@ -76,7 +76,7 @@
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
-                    "title": "Adding UML Diagrams to Rehype in Astro",
+                    "title": "Adding UML Diagrams to Rehype in Astro (With rehype-mermaid)",
                     "link": "https://dteather.com/blogs/astro-uml-diagrams/",
                     "published": "2024-10-07T03:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
@@ -115,6 +115,12 @@
                     "title": "How to Add Live Stats To Your Site",
                     "link": "https://dteather.com/blogs/how-to-add-live-stats-to-your-site/",
                     "published": "2025-08-22T15:00:00+00:00",
+                    "humanReadableSiteName": "David Teather's Blog"
+                },
+                {
+                    "title": "Adding Mermaid Diagrams to Rehype in Astro (With rehype-mermaid-cli)",
+                    "link": "https://dteather.com/blogs/astro-rehype-mermaid-cli/",
+                    "published": "2025-08-25T03:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
