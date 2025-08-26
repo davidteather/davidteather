@@ -1,18 +1,24 @@
-### Hi there 👋
-- 💡 Software engineer, content creator, and much more 😄
-- ✍️ [Blogging](https://dteather.com/blog/) about things I'm doing, learning, tech tutorials, and more
-- 🔭 Currently creating an [open source event management platform](https://github.com/ApplicantAtlas/ApplicantAtlas) focused on hackathons
-- 🎥 Making tech content on the [David Teather Codes](https://www.youtube.com/c/DavidTeatherCodes) YouTube channel
-- 💖 Join the **{{ GITHUB_SPONSORS }}** people who have [sponsored me](https://github.com/sponsors/davidteather), which enables me to create more free content and tools!
+### Hey, I’m David 👋
+
+I’m a software engineer who builds projects that scale, pokes at systems until they break, and enjoys the ride along the way.
+
+🎥 [YouTube](https://www.youtube.com/c/DavidTeatherCodes) | ✍️ [Blog](https://dteather.com/blog/) | 💖 [Sponsor my work](https://github.com/sponsors/davidteather)
+
+---
 
 #### 🚀 Quick Stats
-- 🌟 **{{ GITHUB_STARS }}+** stars on GitHub
-- 🎓 Guided **{{ LINKEDIN_LEARNERS }}+** learners on my [LinkedIn Learning courses](https://www.linkedin.com/learning/instructors/david-teather)
-- 👁️ Over **{{ YOUTUBE_SUBSCRIBERS }}+** subscribers, and **{{ YOUTUBE_VIEWS }}+** views on YouTube
+- 🌟 **{{ GITHUB_STARS }}+** GitHub stars  
+- 🎓 **{{ LINKEDIN_LEARNERS }}+** learners on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/david-teather)  
+- 👁️ **{{ YOUTUBE_SUBSCRIBERS }}+** subscribers | **{{ YOUTUBE_VIEWS }}+** views  
 
-#### ✍️ Contact Me
-- 📫 Feel free to shoot me an email at [contact.davidteather@gmail.com](mailto:contact.davidteather@gmail.com) for any inquiries
-- 🐧 Let's connect on [LinkedIn](https://www.linkedin.com/in/davidteather/).
+---
+
+#### ✍️ Contact
+- 📫 [Email](mailto:contact.davidteather@gmail.com)  
+- 🐧 [LinkedIn](https://www.linkedin.com/in/davidteather/)  
+- 💖 Support my work on [GitHub Sponsors](https://github.com/sponsors/davidteather), your support helps me keep projects and tutorials free for everyone!  
+
+---
 
 #### 📰 Latest Content
 <table><tr>
