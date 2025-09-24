@@ -33,11 +33,11 @@ I’m a software engineer who builds projects that scale, pokes at systems until
 
 ### Recent YouTube Videos
 
+- [Fix Python Proxy Management in 30 Seconds](https://www.youtube.com/shorts/s9oACT8VALY) - Sep 24, &#39;25
+
 - [Manage Proxies in Python the Easy Way 🚀 (ProxyProviders Quick Start)](https://www.youtube.com/watch?v=h-JouO_orYo) - Sep 21, &#39;25
 
 - [Why 99% of GitHub Projects Fail (And the 3 Rules That Got Me 2M+ Downloads)](https://www.youtube.com/watch?v=sSZz1qsqeig) - Jul 14, &#39;25
-
-- [Digging For Digital Gold With Beautiful Soup](https://www.youtube.com/watch?v=_Ptvvjm15EA) - Jul 30, &#39;23
 
 </td>
 

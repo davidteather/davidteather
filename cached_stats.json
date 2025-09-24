@@ -1,15 +1,15 @@
 {
     "get_github_stats": {
-        "starCount": 7053
+        "starCount": 7054
     },
     "get_github_sponsor_stats": {
         "sponsorCount": 25
     },
     "get_linkedin_stats": {
-        "learnerCount": 4070
+        "learnerCount": 4077
     },
     "get_youtube_stats": {
-        "viewCount": "199619",
+        "viewCount": "199647",
         "subscriberCount": "2080"
     },
     "get_rss": {
@@ -131,6 +131,12 @@
                 }
             ],
             "YouTube Videos": [
+                {
+                    "title": "Fix Python Proxy Management in 30 Seconds",
+                    "link": "https://www.youtube.com/shorts/s9oACT8VALY",
+                    "published": "2025-09-24T00:15:04+00:00",
+                    "humanReadableSiteName": "YouTube - David Teather Codes"
+                },
                 {
                     "title": "Manage Proxies in Python the Easy Way \ud83d\ude80 (ProxyProviders Quick Start)",
                     "link": "https://www.youtube.com/watch?v=h-JouO_orYo",
