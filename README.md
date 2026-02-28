@@ -6,7 +6,7 @@ I’m a software engineer who builds projects that scale, pokes at systems until
 
 #### 🚀 Quick Stats
 - 🌟 **7.4K+** GitHub stars  
-- 🎓 **4.4K+** learners on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/david-teather)  
+- 🎓 **4.5K+** learners on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/david-teather)  
 - 👁️ **2.1K+** subscribers | **204K+** views  
 
 #### ✍️ Contact
