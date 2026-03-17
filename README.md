@@ -21,11 +21,11 @@ I’m a software engineer who builds projects that scale, pokes at systems until
 
 ### Recent Blog Posts
 
+- [SimpleStreet: A Chrome Extension for StreetEasy](https://dteather.com/blogs/simplestreet/) - Mar 16, &#39;26
+
 - [Adding Mermaid Diagrams to Rehype in Astro (With rehype-mermaid-cli)](https://dteather.com/blogs/astro-rehype-mermaid-cli/) - Aug 25, &#39;25
 
 - [How to Add Live Stats To Your Site](https://dteather.com/blogs/how-to-add-live-stats-to-your-site/) - Aug 22, &#39;25
-
-- [Reflections A Year Into My Career](https://dteather.com/blogs/reflections-a-year-into-my-career/) - Aug 21, &#39;25
 
 </td>
 
