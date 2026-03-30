@@ -1,6 +1,6 @@
 {
     "get_github_stats": {
-        "starCount": 7603
+        "starCount": 7611
     },
     "get_github_sponsor_stats": {
         "sponsorCount": 27
@@ -9,7 +9,7 @@
         "learnerCount": 4502
     },
     "get_youtube_stats": {
-        "viewCount": "204871",
+        "viewCount": "204881",
         "subscriberCount": "2120"
     },
     "get_rss": {
@@ -133,6 +133,12 @@
                     "title": "SimpleStreet: A Chrome Extension for StreetEasy",
                     "link": "https://dteather.com/blogs/simplestreet/",
                     "published": "2026-03-16T15:00:00+00:00",
+                    "humanReadableSiteName": "David Teather's Blog"
+                },
+                {
+                    "title": "PostgreSQL: Transactions, Row Locks, and Advisory Locks",
+                    "link": "https://dteather.com/blogs/postgres-advisory-locks/",
+                    "published": "2026-03-27T17:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 }
             ],
