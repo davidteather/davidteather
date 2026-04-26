@@ -1,15 +1,15 @@
 {
     "get_github_stats": {
-        "starCount": 7687
+        "starCount": 7689
     },
     "get_github_sponsor_stats": {
         "sponsorCount": 27
     },
     "get_linkedin_stats": {
-        "learnerCount": 4544
+        "learnerCount": 4548
     },
     "get_youtube_stats": {
-        "viewCount": "205297",
+        "viewCount": "205305",
         "subscriberCount": "2120"
     },
     "get_rss": {
@@ -140,6 +140,12 @@
                     "link": "https://dteather.com/blogs/postgres-advisory-locks/",
                     "published": "2026-03-27T17:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
+                },
+                {
+                    "title": "Solving \"I Dropped a Neural Net\"",
+                    "link": "https://dteather.com/blogs/js-dropped-my-nn/",
+                    "published": "2026-04-24T17:00:00+00:00",
+                    "humanReadableSiteName": "David Teather's Blog"
                 }
             ],
             "YouTube Videos": [
@@ -153,12 +159,6 @@
                     "title": "Manage Proxies in Python the Easy Way \ud83d\ude80 (ProxyProviders Quick Start)",
                     "link": "https://www.youtube.com/watch?v=h-JouO_orYo",
                     "published": "2025-09-21T02:32:31+00:00",
-                    "humanReadableSiteName": "YouTube - David Teather Codes"
-                },
-                {
-                    "title": "Why 99% of GitHub Projects Fail (And the 3 Rules That Got Me 2M+ Downloads)",
-                    "link": "https://www.youtube.com/watch?v=sSZz1qsqeig",
-                    "published": "2025-07-14T16:01:33+00:00",
                     "humanReadableSiteName": "YouTube - David Teather Codes"
                 },
                 {

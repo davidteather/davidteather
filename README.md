@@ -21,11 +21,11 @@ I’m a software engineer who builds projects that scale, pokes at systems until
 
 ### Recent Blog Posts
 
+- [Solving &#34;I Dropped a Neural Net&#34;](https://dteather.com/blogs/js-dropped-my-nn/) - Apr 24, &#39;26
+
 - [PostgreSQL: Transactions, Row Locks, and Advisory Locks](https://dteather.com/blogs/postgres-advisory-locks/) - Mar 27, &#39;26
 
 - [SimpleStreet: A Chrome Extension for StreetEasy](https://dteather.com/blogs/simplestreet/) - Mar 16, &#39;26
-
-- [Adding Mermaid Diagrams to Rehype in Astro (With rehype-mermaid-cli)](https://dteather.com/blogs/astro-rehype-mermaid-cli/) - Aug 25, &#39;25
 
 </td>
 
@@ -37,7 +37,7 @@ I’m a software engineer who builds projects that scale, pokes at systems until
 
 - [Manage Proxies in Python the Easy Way 🚀 (ProxyProviders Quick Start)](https://www.youtube.com/watch?v=h-JouO_orYo) - Sep 21, &#39;25
 
-- [Why 99% of GitHub Projects Fail (And the 3 Rules That Got Me 2M+ Downloads)](https://www.youtube.com/watch?v=sSZz1qsqeig) - Jul 14, &#39;25
+- [Digging For Digital Gold With Beautiful Soup](https://www.youtube.com/watch?v=_Ptvvjm15EA) - Jul 30, &#39;23
 
 </td>
 
