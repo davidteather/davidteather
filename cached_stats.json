@@ -1,6 +1,6 @@
 {
     "get_github_stats": {
-        "starCount": 7754
+        "starCount": 7757
     },
     "get_github_sponsor_stats": {
         "sponsorCount": 28
@@ -9,7 +9,7 @@
         "learnerCount": 4597
     },
     "get_youtube_stats": {
-        "viewCount": "205566",
+        "viewCount": "205571",
         "subscriberCount": "2120"
     },
     "get_rss": {
@@ -145,6 +145,12 @@
                     "title": "Solving \"I Dropped a Neural Net\"",
                     "link": "https://dteather.com/blogs/js-dropped-my-nn/",
                     "published": "2026-04-24T17:00:00+00:00",
+                    "humanReadableSiteName": "David Teather's Blog"
+                },
+                {
+                    "title": "The Outbox Pattern Visualized",
+                    "link": "https://dteather.com/blogs/the-outbox-pattern/",
+                    "published": "2026-05-23T17:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 }
             ],

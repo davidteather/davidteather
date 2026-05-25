@@ -21,11 +21,11 @@ I’m a software engineer who builds projects that scale, pokes at systems until
 
 ### Recent Blog Posts
 
+- [The Outbox Pattern Visualized](https://dteather.com/blogs/the-outbox-pattern/) - May 23, &#39;26
+
 - [Solving &#34;I Dropped a Neural Net&#34;](https://dteather.com/blogs/js-dropped-my-nn/) - Apr 24, &#39;26
 
 - [PostgreSQL: Transactions, Row Locks, and Advisory Locks](https://dteather.com/blogs/postgres-advisory-locks/) - Mar 27, &#39;26
-
-- [SimpleStreet: A Chrome Extension for StreetEasy](https://dteather.com/blogs/simplestreet/) - Mar 16, &#39;26
 
 </td>
 
