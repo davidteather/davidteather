@@ -1,15 +1,15 @@
 {
     "get_github_stats": {
-        "starCount": 7853
+        "starCount": 7860
     },
     "get_github_sponsor_stats": {
         "sponsorCount": 28
     },
     "get_linkedin_stats": {
-        "learnerCount": 4653
+        "learnerCount": 4657
     },
     "get_youtube_stats": {
-        "viewCount": "205945",
+        "viewCount": "205948",
         "subscriberCount": "2130"
     },
     "get_rss": {
