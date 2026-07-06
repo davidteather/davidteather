@@ -9,7 +9,7 @@
         "learnerCount": 4664
     },
     "get_youtube_stats": {
-        "viewCount": "206025",
+        "viewCount": "206029",
         "subscriberCount": "2130"
     },
     "get_rss": {
@@ -82,7 +82,7 @@
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
-                    "title": "Adding Interactive Charts to Astro",
+                    "title": "How to Add Interactive Charts to Astro with ApexCharts",
                     "link": "https://dteather.com/blogs/astro-interactive-charts/",
                     "published": "2024-10-30T03:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
@@ -94,13 +94,13 @@
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
-                    "title": "Astro Optimized Images With Markdown",
+                    "title": "How to Optimize Images in Astro Markdown and Content Collections",
                     "link": "https://dteather.com/blogs/astro-optimized-images/",
                     "published": "2024-07-26T15:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
-                    "title": "Adding Giscus Discussions to Astro",
+                    "title": "How to Add Giscus Comments to an Astro Blog",
                     "link": "https://dteather.com/blogs/adding-giscus-discussions-to-astro/",
                     "published": "2025-02-11T03:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
@@ -130,7 +130,7 @@
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
-                    "title": "SimpleStreet: A Chrome Extension for StreetEasy",
+                    "title": "SimpleStreet: A Free StreetEasy Chrome Extension",
                     "link": "https://dteather.com/blogs/simplestreet/",
                     "published": "2026-03-16T15:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
