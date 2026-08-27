@@ -2,17 +2,17 @@
 
 I’m a software engineer who builds projects that scale, pokes at systems until they break, and enjoys the ride along the way.
 
-🎥 [YouTube](https://www.youtube.com/c/DavidTeatherCodes) | ✍️ [Blog](https://dteather.com/blog/) | 💖 [Sponsor my work](https://github.com/sponsors/davidteather)
+🎥 [YouTube](https://go.dteather.com/youtube?src=github&placement=nav) | ✍️ [Blog](https://go.dteather.com/blog?src=github&placement=nav) | 💖 [Sponsor my work](https://go.dteather.com/github-sponsors?src=github&placement=nav)
 
 #### 🚀 Quick Stats
 - 🌟 **{{ GITHUB_STARS }}+** GitHub stars  
-- 🎓 **{{ LINKEDIN_LEARNERS }}+** learners on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/david-teather)  
+- 🎓 **{{ LINKEDIN_LEARNERS }}+** learners on [LinkedIn Learning](https://go.dteather.com/linkedin-learning?src=github&placement=nav)  
 - 👁️ **{{ YOUTUBE_SUBSCRIBERS }}+** subscribers | **{{ YOUTUBE_VIEWS }}+** views  
 
 #### ✍️ Contact
 - 📫 [Email](mailto:contact.davidteather@gmail.com)  
-- 🐧 [LinkedIn](https://www.linkedin.com/in/davidteather/)  
-- 💖 Support my work on [GitHub Sponsors](https://github.com/sponsors/davidteather), your support helps me keep projects and tutorials free for everyone!  
+- 🐧 [LinkedIn](https://go.dteather.com/linkedin?src=github&placement=contact)  
+- 💖 Support my work on [GitHub Sponsors](https://go.dteather.com/github-sponsors?src=github&placement=contact), your support helps me keep projects and tutorials free for everyone!  
 
 #### 📰 Latest Content
 <table><tr>
