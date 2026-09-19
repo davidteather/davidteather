@@ -5,7 +5,7 @@ I’m a software engineer who builds projects that scale, pokes at systems until
 🎥 [YouTube](https://go.dteather.com/youtube?src=github&placement=nav) | ✍️ [Blog](https://go.dteather.com/blog?src=github&placement=nav) | 💖 [Sponsor my work](https://go.dteather.com/github-sponsors?src=github&placement=nav)
 
 #### 🚀 Quick Stats
-- 🌟 **8.0K+** GitHub stars  
+- 🌟 **8.1K+** GitHub stars  
 - 🎓 **4.7K+** learners on [LinkedIn Learning](https://go.dteather.com/linkedin-learning?src=github&placement=nav)  
 - 👁️ **2.1K+** subscribers | **207K+** views  
 
