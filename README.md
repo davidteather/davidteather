@@ -21,11 +21,11 @@ I’m a software engineer who builds projects that scale, pokes at systems until
 
 ### Recent Blog Posts
 
-- [The Outbox Pattern Visualized](https://dteather.com/blogs/the-outbox-pattern/) - May 23, &#39;26
+- [The Transactional Outbox Pattern, Visualized](https://dteather.com/blogs/the-outbox-pattern/) - May 23, &#39;26
 
 - [Solving &#34;I Dropped a Neural Net&#34;](https://dteather.com/blogs/js-dropped-my-nn/) - Apr 24, &#39;26
 
-- [PostgreSQL: Transactions, Row Locks, and Advisory Locks](https://dteather.com/blogs/postgres-advisory-locks/) - Mar 27, &#39;26
+- [PostgreSQL Advisory Locks vs Row Locks: pg_advisory_xact_lock Explained](https://dteather.com/blogs/postgres-advisory-locks/) - Mar 27, &#39;26
 
 </td>
 
@@ -33,11 +33,11 @@ I’m a software engineer who builds projects that scale, pokes at systems until
 
 ### Recent YouTube Videos
 
+- [I Gave Claude a Memory for My NYC Apartment Hunt](https://www.youtube.com/watch?v=kGgKUymeSzc) - Sep 07, &#39;26
+
 - [Fix Python Proxy Management in 30 Seconds](https://www.youtube.com/shorts/s9oACT8VALY) - Sep 24, &#39;25
 
 - [Manage Proxies in Python the Easy Way 🚀 (ProxyProviders Quick Start)](https://www.youtube.com/watch?v=h-JouO_orYo) - Sep 21, &#39;25
-
-- [Digging For Digital Gold With Beautiful Soup](https://www.youtube.com/watch?v=_Ptvvjm15EA) - Jul 30, &#39;23
 
 </td>
 

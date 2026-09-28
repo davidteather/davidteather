@@ -1,6 +1,6 @@
 {
     "get_github_stats": {
-        "starCount": 8076
+        "starCount": 8077
     },
     "get_github_sponsor_stats": {
         "sponsorCount": 28
@@ -9,7 +9,7 @@
         "learnerCount": 4741
     },
     "get_youtube_stats": {
-        "viewCount": "207079",
+        "viewCount": "207084",
         "subscriberCount": "2120"
     },
     "get_rss": {
@@ -58,7 +58,7 @@
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
-                    "title": "My UW Madison Course Tier List",
+                    "title": "UW Madison CS Course Tier List: Easiest, Hardest, and Clap-for-Credit",
                     "link": "https://dteather.com/blogs/madison-class-rankings/",
                     "published": "2024-04-25T15:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
@@ -136,7 +136,7 @@
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
-                    "title": "PostgreSQL: Transactions, Row Locks, and Advisory Locks",
+                    "title": "PostgreSQL Advisory Locks vs Row Locks: pg_advisory_xact_lock Explained",
                     "link": "https://dteather.com/blogs/postgres-advisory-locks/",
                     "published": "2026-03-27T17:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
@@ -148,13 +148,19 @@
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
-                    "title": "The Outbox Pattern Visualized",
+                    "title": "The Transactional Outbox Pattern, Visualized",
                     "link": "https://dteather.com/blogs/the-outbox-pattern/",
                     "published": "2026-05-23T17:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 }
             ],
             "YouTube Videos": [
+                {
+                    "title": "I Gave Claude a Memory for My NYC Apartment Hunt",
+                    "link": "https://www.youtube.com/watch?v=kGgKUymeSzc",
+                    "published": "2026-09-07T23:53:44+00:00",
+                    "humanReadableSiteName": "YouTube - David Teather Codes"
+                },
                 {
                     "title": "Fix Python Proxy Management in 30 Seconds",
                     "link": "https://www.youtube.com/shorts/s9oACT8VALY",
