@@ -21,11 +21,11 @@ I’m a software engineer who builds projects that scale, pokes at systems until
 
 ### Recent Blog Posts
 
+- [False Sharing, Visualized](https://dteather.com/blogs/false-sharing/) - Oct 17, &#39;26
+
 - [The Transactional Outbox Pattern, Visualized](https://dteather.com/blogs/the-outbox-pattern/) - May 23, &#39;26
 
 - [Solving &#34;I Dropped a Neural Net&#34;](https://dteather.com/blogs/js-dropped-my-nn/) - Apr 24, &#39;26
-
-- [PostgreSQL Advisory Locks vs Row Locks: pg_advisory_xact_lock Explained](https://dteather.com/blogs/postgres-advisory-locks/) - Mar 27, &#39;26
 
 </td>
 

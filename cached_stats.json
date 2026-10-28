@@ -1,15 +1,15 @@
 {
     "get_github_stats": {
-        "starCount": 8153
+        "starCount": 8156
     },
     "get_github_sponsor_stats": {
         "sponsorCount": 28
     },
     "get_linkedin_stats": {
-        "learnerCount": 4758
+        "learnerCount": 4759
     },
     "get_youtube_stats": {
-        "viewCount": "207429",
+        "viewCount": "207442",
         "subscriberCount": "2130"
     },
     "get_rss": {
@@ -28,51 +28,69 @@
                     "humanReadableSiteName": "The Response Times"
                 },
                 {
-                    "title": "YikYak Is Exposing Millions of User Locations",
-                    "link": "https://dteather.com/blogs/yikyak-is-exposing-user-locations/",
-                    "published": "2022-05-09T15:00:00+00:00",
+                    "title": "False Sharing, Visualized",
+                    "link": "https://dteather.com/blogs/false-sharing/",
+                    "published": "2026-10-17T17:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
-                    "title": "LINK.social Exposed Users' Sensitive Information & Mass Account Hijacking",
-                    "link": "https://dteather.com/blogs/link-social-exposing-sensitive-personal-information/",
-                    "published": "2022-07-14T15:00:00+00:00",
+                    "title": "The Transactional Outbox Pattern, Visualized",
+                    "link": "https://dteather.com/blogs/the-outbox-pattern/",
+                    "published": "2026-05-23T17:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
-                    "title": "Organizing MadHacks Fall 2023 Reflections",
-                    "link": "https://dteather.com/blogs/madhacks-fall-23/",
-                    "published": "2023-11-11T15:00:00+00:00",
+                    "title": "Solving \"I Dropped a Neural Net\"",
+                    "link": "https://dteather.com/blogs/js-dropped-my-nn/",
+                    "published": "2026-04-24T17:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
-                    "title": "Battlecode 2024 Finalist",
-                    "link": "https://dteather.com/blogs/battlecode24/",
-                    "published": "2024-01-28T15:00:00+00:00",
+                    "title": "PostgreSQL Advisory Locks vs Row Locks: pg_advisory_xact_lock Explained",
+                    "link": "https://dteather.com/blogs/postgres-advisory-locks/",
+                    "published": "2026-03-27T17:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
-                    "title": "GitHub Field Day NYC 2024 Organizer",
-                    "link": "https://dteather.com/blogs/github-fieldday-nyc-2024/",
-                    "published": "2024-03-15T15:00:00+00:00",
+                    "title": "SimpleStreet: A Free StreetEasy Chrome Extension",
+                    "link": "https://dteather.com/blogs/simplestreet/",
+                    "published": "2026-03-16T15:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
-                    "title": "UW Madison CS Course Tier List: Easiest, Hardest, and Clap-for-Credit",
-                    "link": "https://dteather.com/blogs/madison-class-rankings/",
-                    "published": "2024-04-25T15:00:00+00:00",
+                    "title": "Adding Mermaid Diagrams to Rehype in Astro (With rehype-mermaid-cli)",
+                    "link": "https://dteather.com/blogs/astro-rehype-mermaid-cli/",
+                    "published": "2025-08-25T03:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
-                    "title": "IMC Prosperity 2",
-                    "link": "https://dteather.com/blogs/imc-prosperity-2/",
-                    "published": "2024-05-03T15:00:00+00:00",
+                    "title": "How to Add Live Stats To Your Site",
+                    "link": "https://dteather.com/blogs/how-to-add-live-stats-to-your-site/",
+                    "published": "2025-08-22T15:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
-                    "title": "Is Web Scraping Ethical?",
-                    "link": "https://dteather.com/blogs/is-web-scraping-ethical/",
-                    "published": "2024-08-23T03:00:00+00:00",
+                    "title": "Reflections A Year Into My Career",
+                    "link": "https://dteather.com/blogs/reflections-a-year-into-my-career/",
+                    "published": "2025-08-21T15:00:00+00:00",
+                    "humanReadableSiteName": "David Teather's Blog"
+                },
+                {
+                    "title": "Why 99% of GitHub Projects Die (And the 3 Rules That Got Me 3M+ Downloads)",
+                    "link": "https://dteather.com/blogs/why-99-percent-of-github-projects-fail/",
+                    "published": "2025-07-14T15:00:00+00:00",
+                    "humanReadableSiteName": "David Teather's Blog"
+                },
+                {
+                    "title": "How to Add Giscus Comments to an Astro Blog",
+                    "link": "https://dteather.com/blogs/adding-giscus-discussions-to-astro/",
+                    "published": "2025-02-11T03:00:00+00:00",
+                    "humanReadableSiteName": "David Teather's Blog"
+                },
+                {
+                    "title": "How to Add Interactive Charts to Astro with ApexCharts",
+                    "link": "https://dteather.com/blogs/astro-interactive-charts/",
+                    "published": "2024-10-30T03:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
@@ -82,9 +100,9 @@
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
-                    "title": "How to Add Interactive Charts to Astro with ApexCharts",
-                    "link": "https://dteather.com/blogs/astro-interactive-charts/",
-                    "published": "2024-10-30T03:00:00+00:00",
+                    "title": "Is Web Scraping Ethical?",
+                    "link": "https://dteather.com/blogs/is-web-scraping-ethical/",
+                    "published": "2024-08-23T03:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
@@ -100,57 +118,45 @@
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
-                    "title": "How to Add Giscus Comments to an Astro Blog",
-                    "link": "https://dteather.com/blogs/adding-giscus-discussions-to-astro/",
-                    "published": "2025-02-11T03:00:00+00:00",
+                    "title": "IMC Prosperity 2",
+                    "link": "https://dteather.com/blogs/imc-prosperity-2/",
+                    "published": "2024-05-03T15:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
-                    "title": "Reflections A Year Into My Career",
-                    "link": "https://dteather.com/blogs/reflections-a-year-into-my-career/",
-                    "published": "2025-08-21T15:00:00+00:00",
+                    "title": "UW Madison CS Course Tier List: Easiest, Hardest, and Clap-for-Credit",
+                    "link": "https://dteather.com/blogs/madison-class-rankings/",
+                    "published": "2024-04-25T15:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
-                    "title": "How to Add Live Stats To Your Site",
-                    "link": "https://dteather.com/blogs/how-to-add-live-stats-to-your-site/",
-                    "published": "2025-08-22T15:00:00+00:00",
+                    "title": "GitHub Field Day NYC 2024 Organizer",
+                    "link": "https://dteather.com/blogs/github-fieldday-nyc-2024/",
+                    "published": "2024-03-15T15:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
-                    "title": "Adding Mermaid Diagrams to Rehype in Astro (With rehype-mermaid-cli)",
-                    "link": "https://dteather.com/blogs/astro-rehype-mermaid-cli/",
-                    "published": "2025-08-25T03:00:00+00:00",
+                    "title": "Battlecode 2024 Finalist",
+                    "link": "https://dteather.com/blogs/battlecode24/",
+                    "published": "2024-01-28T15:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
-                    "title": "Why 99% of GitHub Projects Die (And the 3 Rules That Got Me 3M+ Downloads)",
-                    "link": "https://dteather.com/blogs/why-99-percent-of-github-projects-fail/",
-                    "published": "2025-07-14T15:00:00+00:00",
+                    "title": "Organizing MadHacks Fall 2023 Reflections",
+                    "link": "https://dteather.com/blogs/madhacks-fall-23/",
+                    "published": "2023-11-11T15:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
-                    "title": "SimpleStreet: A Free StreetEasy Chrome Extension",
-                    "link": "https://dteather.com/blogs/simplestreet/",
-                    "published": "2026-03-16T15:00:00+00:00",
+                    "title": "LINK.social Exposed Users' Sensitive Information & Mass Account Hijacking",
+                    "link": "https://dteather.com/blogs/link-social-exposing-sensitive-personal-information/",
+                    "published": "2022-07-14T15:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 },
                 {
-                    "title": "PostgreSQL Advisory Locks vs Row Locks: pg_advisory_xact_lock Explained",
-                    "link": "https://dteather.com/blogs/postgres-advisory-locks/",
-                    "published": "2026-03-27T17:00:00+00:00",
-                    "humanReadableSiteName": "David Teather's Blog"
-                },
-                {
-                    "title": "Solving \"I Dropped a Neural Net\"",
-                    "link": "https://dteather.com/blogs/js-dropped-my-nn/",
-                    "published": "2026-04-24T17:00:00+00:00",
-                    "humanReadableSiteName": "David Teather's Blog"
-                },
-                {
-                    "title": "The Transactional Outbox Pattern, Visualized",
-                    "link": "https://dteather.com/blogs/the-outbox-pattern/",
-                    "published": "2026-05-23T17:00:00+00:00",
+                    "title": "YikYak Is Exposing Millions of User Locations",
+                    "link": "https://dteather.com/blogs/yikyak-is-exposing-user-locations/",
+                    "published": "2022-05-09T15:00:00+00:00",
                     "humanReadableSiteName": "David Teather's Blog"
                 }
             ],
