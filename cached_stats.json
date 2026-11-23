@@ -1,6 +1,6 @@
 {
     "get_github_stats": {
-        "starCount": 8214
+        "starCount": 8216
     },
     "get_github_sponsor_stats": {
         "sponsorCount": 29
@@ -9,7 +9,7 @@
         "learnerCount": 4775
     },
     "get_youtube_stats": {
-        "viewCount": "207615",
+        "viewCount": "207618",
         "subscriberCount": "2120"
     },
     "get_rss": {
@@ -162,7 +162,7 @@
             ],
             "YouTube Videos": [
                 {
-                    "title": "I Gave Claude a Memory for My NYC Apartment Hunt",
+                    "title": "I told Claude what I hated about each apartment. It remembered.",
                     "link": "https://www.youtube.com/watch?v=kGgKUymeSzc",
                     "published": "2026-09-07T23:53:44+00:00",
                     "humanReadableSiteName": "YouTube - David Teather Codes"

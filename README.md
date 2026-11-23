@@ -33,7 +33,7 @@ I’m a software engineer who builds projects that scale, pokes at systems until
 
 ### Recent YouTube Videos
 
-- [I Gave Claude a Memory for My NYC Apartment Hunt](https://www.youtube.com/watch?v=kGgKUymeSzc) - Sep 07, &#39;26
+- [I told Claude what I hated about each apartment. It remembered.](https://www.youtube.com/watch?v=kGgKUymeSzc) - Sep 07, &#39;26
 
 - [Fix Python Proxy Management in 30 Seconds](https://www.youtube.com/shorts/s9oACT8VALY) - Sep 24, &#39;25
 
