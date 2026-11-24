@@ -33,11 +33,11 @@ I’m a software engineer who builds projects that scale, pokes at systems until
 
 ### Recent YouTube Videos
 
+- [No locks, no shared data, and still 6x slower](https://www.youtube.com/watch?v=x9-NJAXRBGk) - Nov 23, &#39;26
+
+- [Four workers were 6x slower than one](https://www.youtube.com/shorts/KOluVHYheVA) - Nov 23, &#39;26
+
 - [I told Claude what I hated about each apartment. It remembered.](https://www.youtube.com/watch?v=kGgKUymeSzc) - Sep 07, &#39;26
-
-- [Fix Python Proxy Management in 30 Seconds](https://www.youtube.com/shorts/s9oACT8VALY) - Sep 24, &#39;25
-
-- [Manage Proxies in Python the Easy Way 🚀 (ProxyProviders Quick Start)](https://www.youtube.com/watch?v=h-JouO_orYo) - Sep 21, &#39;25
 
 </td>
 

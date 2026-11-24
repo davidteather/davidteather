@@ -6,10 +6,10 @@
         "sponsorCount": 29
     },
     "get_linkedin_stats": {
-        "learnerCount": 4775
+        "learnerCount": 4777
     },
     "get_youtube_stats": {
-        "viewCount": "207618",
+        "viewCount": "207630",
         "subscriberCount": "2120"
     },
     "get_rss": {
@@ -161,6 +161,18 @@
                 }
             ],
             "YouTube Videos": [
+                {
+                    "title": "No locks, no shared data, and still 6x slower",
+                    "link": "https://www.youtube.com/watch?v=x9-NJAXRBGk",
+                    "published": "2026-11-23T15:00:20+00:00",
+                    "humanReadableSiteName": "YouTube - David Teather Codes"
+                },
+                {
+                    "title": "Four workers were 6x slower than one",
+                    "link": "https://www.youtube.com/shorts/KOluVHYheVA",
+                    "published": "2026-11-23T15:00:02+00:00",
+                    "humanReadableSiteName": "YouTube - David Teather Codes"
+                },
                 {
                     "title": "I told Claude what I hated about each apartment. It remembered.",
                     "link": "https://www.youtube.com/watch?v=kGgKUymeSzc",
